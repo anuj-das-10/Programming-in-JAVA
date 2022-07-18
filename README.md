@@ -252,7 +252,7 @@ capacity();
 
 #### Q35) &ensp; Write a JAVA program to implement the concept of multi-threading by implementing the Runnable interface.
 - ######  [See Solution using Java](https://github.com/anuj-das-10/Programming-in-JAVA/blob/main/Solutions/Q-35/MultiThreadingDemo.java)✅
-#
+
 
 
 <br/>
