@@ -7,8 +7,7 @@ class BinaryToDecimal {
         int eqv_dec = 0;
     
         for (int i = bin.length() - 1; i >= 0; i--) {
-            binArray[i]
-                = Character.getNumericValue(bin.charAt(i));
+            binArray[i] = Character.getNumericValue(bin.charAt(i));
         }
 
         for (int i = 0; i < bin.length(); i++) {
